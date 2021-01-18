@@ -1,0 +1,172 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+/**** navbar ****/
+
+.navbar-brand{
+    font-family: 'Vollkorn', serif;
+    line-height: 1.5;
+    font-size: 1rem;
+    padding: 2% 0 2% 17%;
+    font-weight: bolder;
+}
+.nav-link:hover{
+color:blue ;
+}
+.nav-item{
+    font-family: 'Vollkorn', serif;
+    font-size: 1rem;
+    line-height: 1.5;
+    padding: 0 17px;
+    font-weight: bolder;
+}
+.navbar ul{
+    padding: 2% 17% 2% 0;
+}
+.container-fluid{
+    
+  
+}
+/**** home section ****/
+#home-section .container-fluid{
+    
+    padding: 5% 17% 3%;
+}
+.home-title{
+    font-family: 'Patua One', cursive;
+    text-align: left;
+    line-height: 1.5;
+}
+.home-title-color{
+    color: #00d9ff;
+}
+.contact-button{
+    margin-top: 10px;
+}
+.home-social{
+    padding: 10% 0 10%;
+}
+.home-social-icon{
+    padding: 0 17px ;
+}
+
+.home-img{
+    float: center;
+    width: 70%;
+    margin-left:40px ;
+  
+
+}
+/**** about section ****/
+.section-title{
+    font-family: 'Patua One', cursive;
+    color: dodgerblue;
+    text-align: center;
+   padding:5% 0;
+}
+.about-img{
+    float: center;
+    width: 70%;
+    margin-right:40px ;
+   
+   
+  
+}
+#about-section .container-fluid{
+    padding: 2% 17% 3%;
+}
+.about-subtitle{
+    font-family: 'Patua One', cursive;
+    text-align:left;
+    padding:20% 0 5% ;
+
+
+}
+.about-text{
+    font-family: 'Vollkorn', serif;
+    line-height: 1.5;
+   
+    text-align:left;
+}
+/****** skills section******/
+#skill-section .container-fluid{
+    padding: 5% 17% 3%;
+}
+.skills-text{
+    font-family: 'Vollkorn', serif;
+    line-height: 1.5;
+}
+.skills-name{
+    font-family: 'Vollkorn', serif;
+    font-weight: 400;
+}
+.skills-img{
+    width: 80%;
+    float: center;
+    display: block;
+    padding:25% 0 5% ;
+    margin-left:30px ;
+}
+.skill-subtitle{
+    font-family: 'Patua One', cursive;
+    font-weight: bolder;
+    padding:10% 0 5% ;
+}
+/******* work section*****/
+#work-section .container-fluid{
+    padding: 5% 17% 3%;
+}
+.work-img{
+    display: block;
+      padding: 5%;
+    overflow:hidden;
+}
+
+/******* contact section*****/
+#contact-section .container-fluid{
+    padding: 5% 17% 5%;
+}
+.contact-form{
+    font-family: 'Vollkorn', serif;
+    text-align: center;
+}
+.contact-me{
+    text-align: center;
+    margin-left: 90%;
+    margin-bottom: 5%;
+}
+.contact-input{
+    border: 2px solid black;
+    width: 70%;
+    
+}
+.name-input{
+   
+    padding: 2%;
+}
+.contact-me-button{
+    float: right;
+    margin-right: 8.5rem;
+   margin-bottom: 10%;
+}
+/******* footer section*****/
+#footer{
+    margin-top: 5%;
+    font-family: 'Patua One', cursive;
+    line-height: 1.5rem;
+    
+    background-color:black;
+    color: snow;
+    text-align: center;
+    padding: 5% 17% 3%;
+}
+.footer-title{
+    text-align: center;
+    display: block;
+}
+.footer-icon{
+    font-family: 'Patua One', cursive;
+padding: 10px 17px;
+    color: snow;
+}
